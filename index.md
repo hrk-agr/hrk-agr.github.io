@@ -11,7 +11,7 @@ Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
     <h3>Interests:</h3>
     <ul>
         <li>
-            <b>Help businesses save time and money. </b>Warp's mission
+            <b>Infrastructure for financial services. </b>At Warp
         </li>
         <li>
             <b>Science and Technology. </b> We need to produce a lot more energy than today if the developing world has to achieve quality of life parity with the developed part of the world 
@@ -20,7 +20,7 @@ Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
             <b>Football. </b>I am a Real Madrid fan
         </li>
         <li>
-            <b>Anime. </b>I watch a lot of anime and sometimes <a href="/anime-review.html">write</a> about them
+            <b>Anime. </b> I watch a lot of anime. Currently Watching: <a href="https://www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin">Rurouni Kenshin</a>
         </li>
     </ul>
 </div>
