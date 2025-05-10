@@ -27,4 +27,4 @@ Created my list of things to do before I die
 17.	✗ Make money on a trade
 18.	✗ Learn to play the guitar
 19. ✗ Read 1000 books. [(Progress Updated here)](https://www.goodreads.com/user/show/164360268-hrithik)
-
+20. ✗ Own a stable with horses.
