@@ -11,7 +11,7 @@ Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
     <h3>Interests:</h3>
     <ul>
         <li>
-            <b>Infrastructure for financial services.
+            <b>Infrastructure for financial services. </b>
         </li>
         <li>
             <b>Science and Technology. </b> We need to produce a lot more energy than today if the developing world has to achieve quality of life parity with the developed part of the world
