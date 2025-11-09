@@ -3,7 +3,7 @@ layout: default
 title: Home · Hrithik Agarwal
 ---
 
-I currently live in Singapore and work in financial services. I grew up in [Talcher](https://en.wikipedia.org/wiki/Talcher) and previously studied engineering at [IIT Delhi](https://en.wikipedia.org/wiki/IIT_Delhi).
+I currently live in Singapore and work at [Tazapay](https://tazapay.com). I grew up in [Talcher](https://en.wikipedia.org/wiki/Talcher) and previously studied engineering at [IIT Delhi](https://en.wikipedia.org/wiki/IIT_Delhi).
 
 Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
 
@@ -18,9 +18,6 @@ Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
         </li>
         <li>
             <b>Football. </b>I am a Real Madrid fan
-        </li>
-        <li>
-            <b>Anime. </b> I watch a lot of anime. Currently Watching: Hunter x Hunter
         </li>
     </ul>
 </div>

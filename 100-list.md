@@ -26,4 +26,4 @@ Created my list of things to do before I die
 16.	✗ Learn to play the piano
 17.	✗ Make money on a trade
 18.	✗ Learn to play the guitar
-19. ✗ Read 1000 books. [(Progress Updated here)](https://www.goodreads.com/user/show/164360268-hrithik)
+19. ✗ [Read 1000 books](https://www.hrithikagarwal.com/reading.html)
