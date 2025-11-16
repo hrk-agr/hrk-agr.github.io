@@ -11,7 +11,7 @@ Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
     <h3>Interests:</h3>
     <ul>
         <li>
-            <b>Economic Connectivity. </b> [Arca's](https://www.arca-global.com) core mission
+            <b>Economic Connectivity. </b> <a href="https://www.arca-global.com" target="_blank">Arca's</a> core mission
         </li>
         <li>
             <b>Science and Technology. </b>
