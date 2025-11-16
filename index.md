@@ -11,13 +11,13 @@ Email: [mail@hrithikagarwal.com](mailto:mail@hrithikagarwal.com)
     <h3>Interests:</h3>
     <ul>
         <li>
-            <b>Infrastructure for financial services. </b>
+            <b>Economic Connectivity. </b> [Acra's] (https://www.acra-global.com) core mission
         </li>
         <li>
-            <b>Science and Technology. </b> We need to produce a lot more energy than today if the developing world has to achieve quality of life parity with the developed part of the world
+            <b>Science and Technology. </b>
         </li>
         <li>
-            <b>Football. </b>I am a Real Madrid fan
+            <b>Football. </b> I am a Real Madrid fan
         </li>
     </ul>
 </div>
