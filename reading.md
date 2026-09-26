@@ -6,6 +6,7 @@ description: Reading
 
 # 2026
 1. The Count of Monte Cristo, *Alexandre Dumas* \*
+2. Dust, *Hugh Howey* \*
 
 
 # 2025
